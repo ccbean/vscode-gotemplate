@@ -142,7 +142,8 @@
                 ],
                 "extensions": [
                     ".tf.tpl",
-                    ".tf.tmpl"
+                    ".tf.tmpl",
+                    ".tpltf"
                 ],
                 "configuration": "./gotemplate.configuration.json"
             }
